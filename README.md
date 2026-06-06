@@ -6,7 +6,7 @@ O objetivo é documentar e versionar todo o processo de construção do processa
 
 <div align="center">
   <img src="Componentes/img.png" alt="Arquitetura do Processador" width="600px">
-  <p><em>Figura 1: Visão geral da arquitetura e blocos do processador.</em></p>
+  <p><em>Figura 1: Visão geral do Processador.</em></p>
 </div>
 
 ## 📌 Objetivo do Projeto
