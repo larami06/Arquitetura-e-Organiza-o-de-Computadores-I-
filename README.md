@@ -4,7 +4,10 @@ Este repositório contém o desenvolvimento **incremental de um processador**, o
 
 O objetivo é documentar e versionar todo o processo de construção do processador, desde os blocos mais básicos até a integração final.
 
-
+<div align="center">
+  <img src="Componentes/img.png" alt="Arquitetura do Processador" width="600px">
+  <p><em>Figura 1: Visão geral da arquitetura e blocos do processador.</em></p>
+</div>
 
 ## 📌 Objetivo do Projeto
 
@@ -18,4 +21,3 @@ O objetivo é documentar e versionar todo o processo de construção do processa
 ## 🧩 Estrutura do Repositório
 
 Cada pasta ou arquivo representa um **componente do processador**.
-
